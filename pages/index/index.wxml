@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+<!--type='primary' 基本类型
+bindtap='getLocation' 绑定基本事件类型-->
+ <button type='primary' bindtap='getLocation'>定位当前位置并打开地图</button>
+
+</view>
